@@ -11,3 +11,4 @@ services:
     volumes:
       - ./schema/01_create_tables.sql:/docker-entrypoint-initdb.d/01_create_tables.sql
       - ./data/02_insert_sample_data.sql:/docker-entrypoint-initdb.d/02_insert_sample_data.sql
+      - ./queries:/queries
