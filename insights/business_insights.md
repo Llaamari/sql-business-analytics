@@ -22,6 +22,17 @@ The goal is to extract **actionable business insights** using SQL analytics tech
 - Focus on customer retention strategies (email campaigns, loyalty incentives).
 - Investigate causes behind refunded orders.
 
+### Customer Retention (Cohort Analysis)
+
+**Finding**
+- Customer activity drops significantly after the first purchase month.
+
+**Insight**
+- Retention is a key growth lever, more impactful than pure acquisition.
+
+**Recommendation**
+- Introduce post-purchase engagement strategies during the first 30 days.
+
 ---
 
 ## 2️⃣ Top Customers Drive a Disproportionate Share of Revenue
